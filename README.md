@@ -30,10 +30,10 @@
     rel="stylesheet">
 
   <!-- Vendor CSS -->
-  <link rel="stylesheet" href="./assets/css/libs.bundle.css" />
+  <link rel="stylesheet" href="/Users/marina/Documents/GitHub/portfolio_marina/.github/css/libs.bundle.css" />
 
   <!-- Main CSS -->
-  <link rel="stylesheet" href="./assets/css/theme.bundle.css" />
+  <link rel="stylesheet" href="/Users/marina/Documents/GitHub/portfolio_marina/.github/css/theme.bundle.css" />
 
   <!-- Fix for custom scrollbar if JS is disabled-->
   <noscript>
@@ -253,7 +253,7 @@
                         <div>
                         <h2>Second Project</h2>
                 <iframe title="VisitEnglandLincolnshire" width="1024" height="804" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection16a87b5c6cc57a17cce0" frameborder="0" allowFullScreen="true"></iframe>
-                
+
               </div>
              <div> This project was my Second Case Study from Google Data Analytics - It`s the 6 years Analysis of Visitors per Visitor Attractions in Lincolnshire,UK
              </div>
@@ -375,12 +375,6 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216 12.32"><path d="M170,1.88c-18.36-.72-17,8.73-33.3,8.7-17.86,0-26.63-8.43-43.12-10.2C76.84-1.43,66.44,3.69,56.44,6.89,39.25,12.37,10.14,9.6,2.68,1.11,2.16.53-.38.67.05,1.27,3.88,6.63,17.5,10.92,33.64,11.32a85.71,85.71,0,0,0,21.53-2c8.11-1.93,13.35-5,22-6.67,20.93-4,33,5.93,50,8.77,7.09,1.17,14.78,1.25,20.59-.37,6.49-1.8,8.31-5,15.08-6.66C173.06,1.89,181.43,7,190,8.59a68.55,68.55,0,0,0,24.63-.06c3.13-.63.13-2.5-2.92-1.83A52.54,52.54,0,0,1,185.8,5.27C181.17,3.83,176.38,2.14,170,1.88Z" fill="currentColor"/></svg>    </div>
             </div>        <div class="row gx-10 gy-5">
                         <!-- Single Skill-->
-                        <div class="col-12 col-md-6" data-aos="reveal-down">
-                            <div class="d-flex align-items-start mb-3 flex-column flex-lg-row align-items-lg-center">
-                                <h4>Art Director</h4> <span class="text-muted ms-lg-2">(2020 - present)</span>
-                            </div>
-                            <p class="opacity-90">After two years of working in London, I joined the NWD Designs team. Our design group works with clients including Motorola and Nokia who are just some examples; Apple stands out among all others because it had such an impactful brand identity for decades until they rebranded recently.</p>
-                        </div>
                         <!-- / Single Skill -->
                         <!-- Single Skill-->
                         <div class="col-12 col-md-6" data-aos="reveal-down">
