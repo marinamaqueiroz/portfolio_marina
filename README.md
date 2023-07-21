@@ -242,6 +242,7 @@
             <div class="portfolio-listing">
                         <div>
                         <iframe title="cyclistic_casual_driver_final" width="1024" height="804" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzMjc2ZDMtOTQzNi00NzhhLWE5ZGQtYjliY2E4YzlmMDRlIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9" frameborder="0" allowFullScreen="true"></iframe>
+                      </div>
                <div>Cyclistic Casual Driver - was a project of the Google Data Analytics Capstone</div>
                <button class="btn_one">visit project</button>
              </div>
@@ -252,7 +253,8 @@
                         <div>
                         <h2>Second Project</h2>
                 <iframe title="VisitEnglandLincolnshire" width="1024" height="804" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection16a87b5c6cc57a17cce0" frameborder="0" allowFullScreen="true"></iframe>
-
+                
+              </div>
              <div> This project was my Second Case Study from Google Data Analytics - It`s the 6 years Analysis of Visitors per Visitor Attractions in Lincolnshire,UK
              </div>
                         >
