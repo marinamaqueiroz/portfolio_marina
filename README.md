@@ -438,7 +438,7 @@
                         <div class="col-12 col-md-6" data-aos="reveal-right">
                             <div class="d-flex align-items-center">
                                 <picture>
-                                    <img class="f-h-8" src="./assets/images/photoshop.svg" alt="">
+                                    <img class="f-h-8" src=".github/images/photoshop.svg" alt="">
                                 </picture>
                                 <p class="fw-medium ms-3 mb-0">Photoshop</p>
                             </div>
