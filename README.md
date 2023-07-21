@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css?family=Comfortaa:700" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href=".github/1/index.css">
 </head>
 <body>
     <div id="loading">
@@ -53,7 +53,7 @@
                 </div>
 
                 <div class="project">
-                 <h2>Second Project: Visit VisitEnglandLincolnshire</h2>
+                 <h2>Second Project: VisitEnglandLincolnshire</h2>
                  <div><iframe title="VisitEnglandLincolnshire" width="1024" height="804" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection16a87b5c6cc57a17cce0" frameborder="0" allowFullScreen="true"></iframe></div>
                  <button class="btn_one">visit project</button>
                  <button class="btn_two">code</button>
@@ -87,6 +87,6 @@
     <div id="footer">
         made on earth by a human <br><br> <a href="https://imfunniee.github.io">imfunniee</a>
     </div>
-<script src="index.js" type="text/javascript"></script>
+<script src=".github/1/index.js" type="text/javascript"></script>
 </body>
 </html>
