@@ -30,10 +30,10 @@
     rel="stylesheet">
 
   <!-- Vendor CSS -->
-  <link rel="stylesheet" href="/Users/marina/Documents/GitHub/portfolio_marina/.github/css/libs.bundle.css" />
+  <link rel="stylesheet" href=".github/css/libs.bundle.css" />
 
   <!-- Main CSS -->
-  <link rel="stylesheet" href="/Users/marina/Documents/GitHub/portfolio_marina/.github/css/theme.bundle.css" />
+  <link rel="stylesheet" href=".github/css/theme.bundle.css" />
 
   <!-- Fix for custom scrollbar if JS is disabled-->
   <noscript>
