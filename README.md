@@ -241,45 +241,83 @@
             </div>
             <div class="portfolio-listing">
                         <div
-                            class="portfolio-item"
-                            data-bs-toggle="modal"
-                            data-bs-target="#portfolioModal"
-                            data-portfolio-img="./assets/images/portfolio-1.jpg"
-                            data-portfolio-title="Night Party"
-                            data-portfolio-description="Poster illustration created for a club&#x27;s annual summer party. Also created stickers, logos and various website elements."
-                            data-portfolio-client="ACME Design Limited"
-                            data-portfolio-date=""
-                            data-portfolio-category="Illustration"
+                        <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzMjc2ZDMtOTQzNi00NzhhLWE5ZGQtYjliY2E4YzlmMDRlIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection19a8d6f0a3606d0ab37c" frameborder="0" allowFullScreen="true"></iframe>
+                   <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzMjc2ZDMtOTQzNi00NzhhLWE5ZGQtYjliY2E4YzlmMDRlIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectionfb1a145daa5403384c65" frameborder="0" allowFullScreen="true"></iframe>
+                   <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzMjc2ZDMtOTQzNi00NzhhLWE5ZGQtYjliY2E4YzlmMDRlIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection8afc16c9901182cbe3fb" frameborder="0" allowFullScreen="true"></iframe>
+                   <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzMjc2ZDMtOTQzNi00NzhhLWE5ZGQtYjliY2E4YzlmMDRlIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection190f0d5ad76b32c3c6e3" frameborder="0" allowFullScreen="true"></iframe>
+                   <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzMjc2ZDMtOTQzNi00NzhhLWE5ZGQtYjliY2E4YzlmMDRlIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+                   <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzMjc2ZDMtOTQzNi00NzhhLWE5ZGQtYjliY2E4YzlmMDRlIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectionc7549342de56660e5508" frameborder="0" allowFullScreen="true"></iframe>
+                   <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzMjc2ZDMtOTQzNi00NzhhLWE5ZGQtYjliY2E4YzlmMDRlIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection94837c54e6cb988a1c9e" frameborder="0" allowFullScreen="true"></iframe>
+                   <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzMjc2ZDMtOTQzNi00NzhhLWE5ZGQtYjliY2E4YzlmMDRlIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectione3aed330c0d02295976a" frameborder="0" allowFullScreen="true"></iframe>
+                   <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzMjc2ZDMtOTQzNi00NzhhLWE5ZGQtYjliY2E4YzlmMDRlIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection05412be85a3bc0845734" frameborder="0" allowFullScreen="true"></iframe>
+                   <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzMjc2ZDMtOTQzNi00NzhhLWE5ZGQtYjliY2E4YzlmMDRlIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection05412be85a3bc0845734" frameborder="0" allowFullScreen="true"></iframe>
+                   <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzMjc2ZDMtOTQzNi00NzhhLWE5ZGQtYjliY2E4YzlmMDRlIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection97b9bd60c16727ab93fe" frameborder="0" allowFullScreen="true"></iframe>
+               <div>Cyclistic Casual Driver - was a project of the Google Data Analytics Capstone</div>
+               <button class="btn_one">visit project</button>
                         >
                             <picture class="d-block" data-aos="reveal-left">
                                 <img class="img-fluid" src="./assets/images/portfolio-small-1.jpg" alt="">
                             </picture>
                         </div>
                         <div
-                            class="portfolio-item"
-                            data-bs-toggle="modal"
-                            data-bs-target="#portfolioModal"
-                            data-portfolio-img="./assets/images/portfolio-2.jpg"
-                            data-portfolio-title="Skull &amp; Cat"
-                            data-portfolio-description="Custom logo created for a local tatoo artist. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam consectetur magna nunc, ut egestas sem egestas non."
-                            data-portfolio-client="Super 8 Design"
-                            data-portfolio-date=""
-                            data-portfolio-category="Logo &amp; Branding"
+                        <h2>Second Project</h2>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection16a87b5c6cc57a17cce0" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectionae9f64615f047971a82a" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectione8f2f5692f46ffe0f025" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection3282c2eadf6d6a352db5" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectiona70d4a7a586e5077bbc6" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection3992523bb43efd4d1e5e" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection416cb6cf9684983f3862" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectione74dfbd32bc786d62b29" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection7e9101a42f934da15218" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectiondb1b205f5ba290442627" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectione711e7489416f6abb446" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectione85559e56db5a1f3539d" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection53d25de1c249d0ae819a" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectionc27d47e2d07e6368e49f" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectiona7a8cf18b278f0ea41d1" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection87b71030d11bf90c6fb4" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectioncc58b38abd1f162f4934" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection2b30452468eda9553f97" frameborder="0" allowFullScreen="true"></iframe>
+
+             <div> This project was my Second Case Study from Google Data Analytics - It`s the 6 years Analysis of Visitors per Visitor Attractions in Lincolnshire,UK
+             </div>
                         >
                             <picture class="d-block" data-aos="reveal-left">
                                 <img class="img-fluid" src="./assets/images/portfolio-small-2.jpg" alt="">
                             </picture>
                         </div>
                         <div
-                            class="portfolio-item"
-                            data-bs-toggle="modal"
-                            data-bs-target="#portfolioModal"
-                            data-portfolio-img="./assets/images/portfolio-3.jpg"
-                            data-portfolio-title="Warrior Skull"
-                            data-portfolio-description="Nulla nec elit eu neque faucibus molestie sed et nulla. Aliquam placerat felis ipsum, non pellentesque tortor ultrices eget. Suspendisse ornare bibendum orci, sit amet aliquet erat faucibus et."
-                            data-portfolio-client="Waterfall Theatre"
-                            data-portfolio-date=""
-                            data-portfolio-category="Poster Design"
+                        <h2>Third Project</h2>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection4906e2a6b24d3c5aa738" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection1188a91b27d694dab09e" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection2c49719b0ae27aaa3778" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection64d35276da1234fc11b1" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection399e9bffa7096138d82f" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection54ca80c5bd2d8aadf56e" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectionece9739ac51d20ef4f9f" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection0c2922d722e471ecac8e" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectiondf326ee2441737081e2c" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection91bd9856b480674c7361" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectiona9a833620ab0f189dcca" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection4d7bc2ce5c01396750a5" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection8cb711c84898e931b018" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection7aee87ed7e11c85afa25" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection7a66e363ed13d036e8ab" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectiona1c5e860c5daa64ba25c" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectione564ab57797df443df6e" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection989bac8a24fb8f848051" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection63beae5f3b543bb447b0" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection7eeadc9f6f79aa38bea0" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection44f617d890842cb9884c" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection4edeaf0ce7d31f283edc" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection40a275b4747993571a50" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSectionab9bcc7abc2a3afded34" frameborder="0" allowFullScreen="true"></iframe>
+                  <iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection46049fae164a92602c59" frameborder="0" allowFullScreen="true"></iframe>
+                <div> This project was my Third Case Case Study from Google Data Analytics - Its the Analysis of Bellabeat Fitbit trackers - that analyzes heartbeats, sleep patterns and exercises from users
+             </div>
                         >
                             <picture class="d-block" data-aos="reveal-left">
                                 <img class="img-fluid" src="./assets/images/portfolio-small-3.jpg" alt="">
