@@ -136,7 +136,7 @@ header table {
     font-weight:bold;
     margin:0px 8px;
 }
-.social:hover { 
+.social:hover {
     cursor: pointer;
     color:#fff;
     background:rgb(255, 44, 90);
@@ -294,13 +294,13 @@ button:focus {
     height:5px;
 }
 ::-webkit-scrollbar-track {
-    background: #f1f1f1; 
+    background: #f1f1f1;
 }
 ::-webkit-scrollbar-thumb {
-    background: rgb(0, 0, 0); 
+    background: rgb(0, 0, 0);
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: rgba(0, 0, 0,0.8); 
+    background: rgba(0, 0, 0,0.8);
 }
 
 @media (max-width: 1000px){
