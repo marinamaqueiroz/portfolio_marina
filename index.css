@@ -1,5 +1,5 @@
- body,
-html {
+<class>
+ body,html {
   padding: 0;
   margin: 0;
   font-family: 'Comfortaa', cursive;
@@ -381,3 +381,4 @@ button:focus {
     background-position: 0 50%;
   }
 }
+</class>
