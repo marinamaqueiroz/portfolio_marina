@@ -4,88 +4,103 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Marina M Q</title>
+    <title>Marina M.</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
     <link href="https://fonts.googleapis.com/css?family=Comfortaa:700" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-    <link rel="stylesheet" href="new_css.css">
+    <link rel="stylesheet" href="index.css">
 </head>
 <body>
     <div id="loading">
         <div id="spinner"></div>
     </div>
-    <div id="header" class="animated slideInDown" style="animation-delay:1.8s;">
-    <div id="title">Marina M</div><br>
-    <div id="links">
-        <a href="#skills">skills</a>
-        <a href="#work" style="margin:0px 60px;">works</a>
-        <a href="#contact">contact</a>
+    <div id="particles-js"></div>
+    <div id="box">
+        <div class="box1 onlywide animated bounceOutLeft" style="animation-delay:1.7s;"></div>
+        <div class="box2 onlywide animated bounceOutLeft" style="animation-delay:1.8s;"></div>
+        <div class="box2 onlywide animated bounceOutLeft" style="animation-delay:1.9s;"></div>
+        <div class="box2 animated bounceOutRight" style="animation-delay:1.9s;"></div>
+        <div class="box2 onlywide animated bounceOutRight" style="animation-delay:1.8s;"></div>
+        <div class="box2 onlywide animated bounceOutRight" style="animation-delay:1.7s;"></div>
     </div>
-    </div>
-
-    <center>
-    <div id="middle">
-        <div id="tagline" class="animated zoomIn" style="animation-delay:1.8s;">
-            Marina M : Data Analyst and Designer<br>
-            <button class="btn_one">Check out my work :)</button>
+    <a id="about" onclick="showabout()" class="animated fadeIn" style="animation-delay:2.2s;">about</a>
+    <a id="work" onclick="showwork()" class="animated fadeIn" style="animation-delay:2.2s;">work</a>
+    <a id="contact" onclick="showcontact()" class="animated fadeIn" style="animation-delay:2.2s;">contact</a>
+    <div id="middle" class="animated slideInDown" style="animation-delay:2.0s;">
+        <h1>Marina Marques.</h1>
+        <h2>Data Analyst - Designer</h2>
+        <div id="menu">
+            <a onclick="showabout()">about</a>
+            <a onclick="showwork()">work</a>
+            <a onclick="showcontact()">contact</a>
         </div>
+        <table>
+                <tr>
+                    <td class="animated zoomIn" style="animation-delay:2.2s;"><a class="social"><i class="fab fa-facebook"></i></a></td>
+                    <td class="animated zoomIn" style="animation-delay:2.4s;"><a class="social"><i class="fab fa-twitter"></i></a></td>
+                    <td class="animated zoomIn" style="animation-delay:2.6s;"><a class="social"><i class="fab fa-instagram"></i></a></td>
+                    <td class="animated zoomIn" style="animation-delay:2.8s;"><a class="social"><i class="fab fa-dribbble"></i></a></td>
+                </tr>
+        </table>
     </div>
-    </center>
-
-    <div id="portfolio">
-             <div id="skills">
-                 <h1>skills.</h1>
-                 <div>
-                        <p>
-                          Power Bi, Power Query, Excel, Adobe Suite,Figma,R, Python and Jupyter Notebook.
-                        </p>
-                 </div>
-             </div>
-
-              <div id="work">
-                 <h1>works.</h1>
-
-                 <div class="project">
-                 <h2>First Project: Cyclistic</h2>
-                 <div><iframe title="cyclistic_casual_driver_final" width="1024" height="804" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzMjc2ZDMtOTQzNi00NzhhLWE5ZGQtYjliY2E4YzlmMDRlIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9" frameborder="0" allowFullScreen="true"></iframe></div>
-                 <button class="btn_one">visit project</button>
-                </div>
-
-                <div class="project">
-                 <h2>Second Project: Visit VisitEnglandLincolnshire</h2>
-                 <div><iframe title="VisitEnglandLincolnshire" width="1024" height="804" src="https://app.powerbi.com/view?r=eyJrIjoiNWFjODY4MjUtMjM5My00ZmU3LWIyOTktMTk1NjVjZjg0YmFjIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9&pageName=ReportSection16a87b5c6cc57a17cce0" frameborder="0" allowFullScreen="true"></iframe></div>
-                 <button class="btn_one">visit project</button>
-                 <button class="btn_two">code</button>
-                </div>
-
-                <div class="project">
-                 <h2>Third Project: Bellabeat Fitbit Tracker</h2>
-                 <div><iframe title="bellabeat" width="1024" height="804" src="https://app.powerbi.com/view?r=eyJrIjoiYTY0YTBhOGQtY2IyMS00Y2MzLTkxNTEtZTk5YTcwZTc5NmMxIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9" frameborder="0" allowFullScreen="true"></iframe></div>
-                 <button class="btn_one">visit project</button>
-                 <button class="btn_two">code</button>
-                </div>
-
-             </div>
-
-              <div id="contact">
-                 <h1>contact.</h1>
-                 <h2>email: marina.ma.queiroz@gmail.com <h2>
-                 <form>
-                     <input type="text" placeholder="name" required>
-                     <input type="email" placeholder="email" required><br>
-                     <textarea placeholder="your message" required rows="5"></textarea><br>
-                     <button class="btn_one">send</button>
-                 </form>
-                 <div id="details">
-                    <a class="btn_social"><i class="fas fa-phone"></i></a>
-                    <a class="btn_social"><i class="fab fa-dribbble"></i></a>
-                 </div>
-             </div>
+    <div id="work_container" class="container">
+        <div onclick="closework()"><i class="fas fa-angle-right"></i></div>
+        <h1>works.</h1>
+        <section>
+            <h2>Cyclistic - First Project</h2>
+            <p>
+              <iframe title="cyclistic_casual_driver_final" width="1024" height="804" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzMjc2ZDMtOTQzNi00NzhhLWE5ZGQtYjliY2E4YzlmMDRlIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9" frameborder="0" allowFullScreen="true"></iframe>
+            </p>
+            <div id="used">
+                <div><i class="fas fa-circle"></i>&nbsp;HTML5</div>
+                <div><i class="fas fa-circle"></i>&nbsp;CSS3</div>
+                <div><i class="fas fa-circle"></i>&nbsp;Javascript</div>
+            </div>
+            <button class="btn_one">button 1</button>
+            <button class="btn_two">button 2</button>
+        </section>
     </div>
-    <div id="footer">
-        Marina <br><br> <a href="https://www.linkedin.com/in/marina-marques-530321263">linkedin</a>
-    </div>
-<script src="index.js" type="text/javascript"></script>
+    <div id="about_container" class="container">
+            <div onclick="closeabout()"><i class="fas fa-angle-left"></i></div>
+            <h1>about.</h1>
+            <section>
+                <h2>about me</h2>
+                <p>
+                    Marina M : Data Analyst, Designer and Storyteller. My goal is to bring Art and Design to the research of Data Analysis.
+                </p>
+                <p>
+                    Here you can see some projects of my portfolio
+                </p>
+            </section>
+            <section>
+                <h2>skills</h2>
+                <p>
+                    Power Bi, Power Query, Big Query, MySQL,Python,R,Jupyter, Excel,Figma and Adobe Suite. <br>
+                    I speak English, German, Portuguese - Native, Spanish and Emoji :)<br>
+                </p>
+            </section>
+        </div>
+          <div id="contact_container" class="container">
+            <div onclick="closecontact()"><i class="fas fa-angle-down"></i></div>
+            <h1>contact.</h1>
+            <section>
+                <h2>contact me</h2>
+                <p>
+                    <form>
+                        <input type="text" placeholder="name" required>
+                        <input type="email" placeholder="email" required><br>
+                        <textarea placeholder="your message" required rows="5"></textarea><br>
+                        <button class="btn_one">send</button>
+                    </form>
+                </p>
+            </section>
+        </div>
+        <div id="footer">
+            template by imfunniee <br> <a href="https://imfunniee.github.io">imfunniee</a>
+        </div>
+    <script src="index 3.js" type="text/javascript"></script>
+    <script src="particles.js"></script>
+    <script src="app.js"></script>
 </body>
 </html>
