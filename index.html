@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="index.css">
     <style> #about {
         width:84% !important;
-        height:10vh;
+        height:5vh;
         display:flex;
         flex-direction:column;
         justify-content:center;
@@ -21,7 +21,7 @@
         padding:0px 8%;
     }
     #work {
-        width:84%;
+        width:84% !important;
         height:5vh;
         display:flex;
         flex-direction:column;
@@ -30,7 +30,7 @@
         padding:0px 8%;
     }
     #contact {
-        width:84%;
+        width:84% !important;
         height:5vh;
         display:flex;
         flex-direction:column;
@@ -39,69 +39,6 @@
         padding:0px 8%;
     }
     </style>
-    <script>
-    function showabout() {
-    $("#about_container").css("display", "inherit");
-    $("#about_container").addClass("animated slideInLeft");
-    setTimeout(function() {
-      $("#about_container").removeClass("animated slideInLeft");
-    }, 800);
-  }
-
-  function closeabout() {
-    $("#about_container").addClass("animated slideOutLeft");
-    setTimeout(function() {
-      $("#about_container").removeClass("animated slideOutLeft");
-      $("#about_container").css("display", "none");
-    }, 800);
-  }
-
-  function showwork() {
-    $("#work_container").css("display", "inherit");
-    $("#work_container").addClass("animated slideInRight");
-    setTimeout(function() {
-      $("#work_container").removeClass("animated slideInRight");
-    }, 800);
-  }
-
-  function closework() {
-    $("#work_container").addClass("animated slideOutRight");
-    setTimeout(function() {
-      $("#work_container").removeClass("animated slideOutRight");
-      $("#work_container").css("display", "none");
-    }, 800);
-  }
-
-  function showcontact() {
-    $("#contact_container").css("display", "inherit");
-    $("#contact_container").addClass("animated slideInUp");
-    setTimeout(function() {
-      $("#contact_container").removeClass("animated slideInUp");
-    }, 800);
-  }
-
-  function closecontact() {
-    $("#contact_container").addClass("animated slideOutDown");
-    setTimeout(function() {
-      $("#contact_container").removeClass("animated slideOutDown");
-      $("#contact_container").css("display", "none");
-    }, 800);
-  }
-
-  setTimeout(function() {
-    $("#loading").addClass("animated fadeOut");
-    setTimeout(function() {
-      $("#loading").removeClass("animated fadeOut");
-      $("#loading").css("display", "none");
-      $("#box").css("display", "none");
-      $("#about").removeClass("animated fadeIn");
-      $("#contact").removeClass("animated fadeIn");
-      $("#work").removeClass("animated fadeIn");
-    }, 1000);
-  }, 1500);
-
-
-    </script>
 </head>
 <body>
     <div style="height:60px" id="loading">
@@ -192,9 +129,11 @@
 
 
     </script>
+    <div style="margin-left:30px;font-size:19px;line-height:1.6;letter-spacing:0.5px;margin-right:30px;">
     <a style="text-align:center;margin-left:30px;"  id="about" onclick="showabout()" class="animated fadeIn" style="animation-delay:2.2s;">about</a>
     <a style="text-align:center;margin-left:60px;" id="work" onclick="showwork()" class="animated fadeIn" style="animation-delay:2.2s;">work</a>
     <a style="text-align:center;margin-left:90px;"id="contact" onclick="showcontact()" class="animated fadeIn" style="animation-delay:2.2s;">contact</a>
+  </div>
     <div id="middle" class="animated slideInDown" style="animation-delay:2.0s;">
         <h1 align="justify" style="font-size: 30px; line-height: 1.6; letter-spacing: 0.5px;margin-left: 30px;margin-right: 30px;">Marina Marques.</h1>
         <h2 align="justify" style="font-size: 25px; line-height: 1.6; letter-spacing: 0.5px;margin-left: 30px;margin-right: 30px;">Data Analyst - Designer</h2>
@@ -204,7 +143,7 @@
         <h1 align="justify" style="font-size: 20px; line-height: 1.6; letter-spacing: 0.5px;margin-left: 30px;margin-right: 30px;">Power BI Projects.</h1>
         <section>
             <h2 align="justify" style="font-size: 20px; line-height: 1.6; letter-spacing: 0.5px;margin-left: 30px;margin-right: 30px;">Cyclistic - First Project</h2>
-            <p style="font-size:19px;line-height:1.6;letter-spacing:0.5 px;margin-left:30px;margin-right:30px;"> This project analyzed the trends in Casual Rides from a Bike Rental company in Chicago </p>
+            <p style="font-size:19px;line-height:1.6;letter-spacing:0.5px;margin-left:30px;margin-right:30px;"> This project analyzed the trends in Casual Rides from a Bike Rental company in Chicago </p>
             <p style="text-align:center">
               <iframe title="cyclistic_casual_driver_final" width="1024" height="804" src="https://app.powerbi.com/view?r=eyJrIjoiYjUzMjc2ZDMtOTQzNi00NzhhLWE5ZGQtYjliY2E4YzlmMDRlIiwidCI6ImQ3ZjE4MTgyLTc3ZTItNDRhNC04MTVlLWJlMTQwYTJhMTk3MSJ9" frameborder="0" allowFullScreen="true"></iframe>
             </p>
