@@ -11,7 +11,34 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <link rel="stylesheet" href="index.css">
-
+    <style> #about {
+        width:84% !important;
+        height:5vh;
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        text-align:left;
+        padding:0px 8%;
+    }
+    #work {
+        width:84% !important;
+        height:5vh;
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        text-align:left;
+        padding:0px 8%;
+    }
+    #contact {
+        width:84% !important;
+        height:5vh;
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        text-align:left;
+        padding:0px 8%;
+    }
+    </style>
 </head>
 <body>
     <div style="height:60px" id="loading">
@@ -26,85 +53,72 @@
         <div class="box2 onlywide animated bounceOutRight" style="animation-delay:1.8s;"></div>
         <div class="box2 onlywide animated bounceOutRight" style="animation-delay:1.7s;"></div>
     </div>
-    <script>
-    $(document).ready(function(){
-      $("a").on('click', function(event) {
-        if (this.hash !== "") {
-          event.preventDefault();
-          var hash = this.hash;
-          $('body,html').animate({
-          scrollTop: $(hash).offset().top
-          }, 1200, function(){
-          window.location.hash = hash;
-         });
-         }
-        });
-    });
-    function showabout() {
-    $("#about_container").css("display", "inherit");
-    $("#about_container").addClass("animated slideInLeft");
-    setTimeout(function() {
-      $("#about_container").removeClass("animated slideInLeft");
-    }, 800);
-  }
-
-  function closeabout() {
-    $("#about_container").addClass("animated slideOutLeft");
-    setTimeout(function() {
-      $("#about_container").removeClass("animated slideOutLeft");
-      $("#about_container").css("display", "none");
-    }, 800);
-  }
-
-  function showwork() {
-    $("#work_container").css("display", "inherit");
-    $("#work_container").addClass("animated slideInRight");
-    setTimeout(function() {
-      $("#work_container").removeClass("animated slideInRight");
-    }, 800);
-  }
-
-  function closework() {
-    $("#work_container").addClass("animated slideOutRight");
-    setTimeout(function() {
-      $("#work_container").removeClass("animated slideOutRight");
-      $("#work_container").css("display", "none");
-    }, 800);
-  }
-
-  function showcontact() {
-    $("#contact_container").css("display", "inherit");
-    $("#contact_container").addClass("animated slideInUp");
-    setTimeout(function() {
-      $("#contact_container").removeClass("animated slideInUp");
-    }, 800);
-  }
-
-  function closecontact() {
-    $("#contact_container").addClass("animated slideOutDown");
-    setTimeout(function() {
-      $("#contact_container").removeClass("animated slideOutDown");
-      $("#contact_container").css("display", "none");
-    }, 800);
-  }
-
-  setTimeout(function() {
-    $("#loading").addClass("animated fadeOut");
-    setTimeout(function() {
-      $("#loading").removeClass("animated fadeOut");
-      $("#loading").css("display", "none");
-      $("#box").css("display", "none");
-      $("#about").removeClass("animated fadeIn");
-      $("#contact").removeClass("animated fadeIn");
-      $("#work").removeClass("animated fadeIn");
-    }, 1000);
-  }, 1500);
-
-
-    </script>
+    <div style="margin-left:30px;font-size:19px;line-height:1.6;letter-spacing:0.5px;margin-right:30px;">
     <a  id="about" onclick="showabout()" class="animated fadeIn" style="animation-delay:2.2s;">about</a>
     <a  id="work" onclick="showwork()" class="animated fadeIn" style="animation-delay:2.2s;">work</a>
     <a id="contact" onclick="showcontact()" class="animated fadeIn" style="animation-delay:2.2s;">contact</a>
+  </div>
+  <script>
+   function showabout() {
+     $("#about_container").css("display", "inherit");
+     $("#about_container").addClass("animated slideInLeft");
+     setTimeout(function() {
+       $("#about_container").removeClass("animated slideInLeft");
+     }, 800);
+   }
+
+   function closeabout() {
+     $("#about_container").addClass("animated slideOutLeft");
+     setTimeout(function() {
+       $("#about_container").removeClass("animated slideOutLeft");
+       $("#about_container").css("display", "none");
+     }, 800);
+   }
+
+   function showwork() {
+     $("#work_container").css("display", "inherit");
+     $("#work_container").addClass("animated slideInRight");
+     setTimeout(function() {
+       $("#work_container").removeClass("animated slideInRight");
+     }, 800);
+   }
+
+   function closework() {
+     $("#work_container").addClass("animated slideOutRight");
+     setTimeout(function() {
+       $("#work_container").removeClass("animated slideOutRight");
+       $("#work_container").css("display", "none");
+     }, 800);
+   }
+
+   function showcontact() {
+     $("#contact_container").css("display", "inherit");
+     $("#contact_container").addClass("animated slideInUp");
+     setTimeout(function() {
+       $("#contact_container").removeClass("animated slideInUp");
+     }, 800);
+   }
+
+   function closecontact() {
+     $("#contact_container").addClass("animated slideOutDown");
+     setTimeout(function() {
+       $("#contact_container").removeClass("animated slideOutDown");
+       $("#contact_container").css("display", "none");
+     }, 800);
+   }
+
+   setTimeout(function() {
+     $("#loading").addClass("animated fadeOut");
+     setTimeout(function() {
+       $("#loading").removeClass("animated fadeOut");
+       $("#loading").css("display", "none");
+       $("#box").css("display", "none");
+       $("#about").removeClass("animated fadeIn");
+       $("#contact").removeClass("animated fadeIn");
+       $("#work").removeClass("animated fadeIn");
+     }, 1000);
+   }, 1500);
+ </script>
     <div id="middle" class="animated slideInDown" style="animation-delay:2.0s;">
         <h1 align="justify" style="font-size: 30px; line-height: 1.6; letter-spacing: 0.5px;margin-left: 30px;margin-right: 30px;">Marina Marques.</h1>
         <h2 align="justify" style="font-size: 25px; line-height: 1.6; letter-spacing: 0.5px;margin-left: 30px;margin-right: 30px;">Data Analyst - Designer</h2>
