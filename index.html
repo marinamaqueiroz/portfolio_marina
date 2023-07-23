@@ -26,7 +26,7 @@
         display:flex;
         flex-direction:column;
         justify-content:center;
-        text-align:center;
+        text-align:left;
         padding:0px 8%;
     }
     #contact {
@@ -35,9 +35,29 @@
         display:flex;
         flex-direction:column;
         justify-content:center;
-        text-align:right;
+        text-align:left;
         padding:0px 8%;
     }
+    function showabout(){
+        $("#about_container").css("display","inherit");
+        $("#about_container").addClass("animated slideInLeft");
+        setTimeout(function(){
+            $("#about_container").removeClass("animated slideInLeft");
+        },800);
+    }function showwork(){
+        $("#work_container").css("display","inherit");
+        $("#work_container").addClass("animated slideInRight");
+        setTimeout(function(){
+            $("#work_container").removeClass("animated slideInRight");
+        },800);
+    }function showcontact(){
+        $("#contact_container").css("display","inherit");
+        $("#contact_container").addClass("animated slideInUp");
+        setTimeout(function(){
+            $("#contact_container").removeClass("animated slideInUp");
+        },800);
+    }
+
     </style>
 </head>
 <body>
