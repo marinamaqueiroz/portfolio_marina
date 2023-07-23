@@ -22,7 +22,7 @@
     }
     #work {
         width:84%;
-        height:10vh;
+        height:5vh;
         display:flex;
         flex-direction:column;
         justify-content:center;
@@ -31,7 +31,7 @@
     }
     #contact {
         width:84%;
-        height:10vh;
+        height:5vh;
         display:flex;
         flex-direction:column;
         justify-content:center;
@@ -41,23 +41,26 @@
     </style>
     <style>
     function showabout(){
-        $("#about_container").css("display","inherit");
+
+    }$("#about_container").css("display","inherit");
         $("#about_container").addClass("animated slideInLeft");
         setTimeout(function(){
-            $("#about_container").removeClass("animated slideInLeft");
+          $("#about_container").removeClass("animated slideInLeft");
         },800);
     }function showwork(){
-        $("#work_container").css("display","inherit");
+
+    }$("#work_container").css("display","inherit");
         $("#work_container").addClass("animated slideInRight");
         setTimeout(function(){
-            $("#work_container").removeClass("animated slideInRight");
+          $("#work_container").removeClass("animated slideInRight");
         },800);
     }function showcontact(){
-        $("#contact_container").css("display","inherit");
+
+    }$("#contact_container").css("display","inherit");
         $("#contact_container").addClass("animated slideInUp");
         setTimeout(function(){
-            $("#contact_container").removeClass("animated slideInUp");
-        },800);
+          $("#contact_container").removeClass("animated slideInUp");
+          },800);
     }
     </style>
 </head>
